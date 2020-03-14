@@ -18,15 +18,15 @@ Hello World in 101 languages.
 |   10  | [JavaScript](https://en.wikipedia.org/wiki/JavaScript)                    | [helloworld.js](helloworld.js)            | [Zack Gabri](https://github.com/ZackGabri)           |
 |   11  | [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))     | [helloworld.kt](helloworld.kt)            | [Zack Gabri](https://github.com/ZackGabri)           |
 |   12  | [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language))           | [helloworld.lua](helloworld.lua)          | [Zack Gabri](https://github.com/ZackGabri)           |
-|   10  | [Perl](https://en.wikipedia.org/wiki/Perl)                                | [helloworld.pl](helloworld.pl)            | [Zack Gabri](https://github.com/ZackGabri)           |
-|   11  | [Python](https://en.wikipedia.org/wiki/Python_(programming_language))     | [helloworld.py](helloworld.py)            | [Zack Gabri](https://github.com/ZackGabri)           |
-|   12  | [R](https://en.wikipedia.org/wiki/R_(programming_language))               | [helloworld.r](helloworld.r)              | [Zack Gabri](https://github.com/ZackGabri)           |
-|   13  | [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))         | [helloworld.rb](helloworld.rb)            | [Zack Gabri](https://github.com/ZackGabri)           |
-|   14  | [Red](https://en.wikipedia.org/wiki/Red_(programming_language))           | [helloworld.red](helloworld.red)          | [Zack Gabri](https://github.com/ZackGabri)           |
-|   15  | [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))         | [helloworld.rs](helloworld.rs)            | [Zack Gabri](https://github.com/ZackGabri)           |
-|   16  | [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))       | [helloworld.swift](helloworld.swift)      | [Zack Gabri](https://github.com/ZackGabri)           |
-|   17  | [TypeScript](https://en.wikipedia.org/wiki/TypeScript)                    | [helloworld.ts](helloworld.ts)            | [Anish Shobith](https://github.com/Anish-Shobith)    |
-|   18  | [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic)                | [helloworld.vb](helloworld.vb)            | [Chaos Phoe](https://github.com/ChaosPhoe)           |
+|   13  | [Perl](https://en.wikipedia.org/wiki/Perl)                                | [helloworld.pl](helloworld.pl)            | [Zack Gabri](https://github.com/ZackGabri)           |
+|   14  | [Python](https://en.wikipedia.org/wiki/Python_(programming_language))     | [helloworld.py](helloworld.py)            | [Zack Gabri](https://github.com/ZackGabri)           |
+|   15  | [R](https://en.wikipedia.org/wiki/R_(programming_language))               | [helloworld.r](helloworld.r)              | [Zack Gabri](https://github.com/ZackGabri)           |
+|   16  | [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))         | [helloworld.rb](helloworld.rb)            | [Zack Gabri](https://github.com/ZackGabri)           |
+|   17  | [Red](https://en.wikipedia.org/wiki/Red_(programming_language))           | [helloworld.red](helloworld.red)          | [Zack Gabri](https://github.com/ZackGabri)           |
+|   18  | [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))         | [helloworld.rs](helloworld.rs)            | [Zack Gabri](https://github.com/ZackGabri)           |
+|   19  | [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))       | [helloworld.swift](helloworld.swift)      | [Zack Gabri](https://github.com/ZackGabri)           |
+|   20  | [TypeScript](https://en.wikipedia.org/wiki/TypeScript)                    | [helloworld.ts](helloworld.ts)            | [Anish Shobith](https://github.com/Anish-Shobith)    |
+|   21  | [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic)                | [helloworld.vb](helloworld.vb)            | [Chaos Phoe](https://github.com/ChaosPhoe)           |
 
 # Pull Request
 * The output of the message should be `Hello World!`
