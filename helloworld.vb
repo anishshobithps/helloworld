@@ -1,3 +1,3 @@
 Sub Main()
-Print "Hello, World!"
+Print "Hello World!"
 End Sub
