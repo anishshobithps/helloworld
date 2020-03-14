@@ -6,8 +6,8 @@ Hello World in 101 languages.
 
 | S.No  | Language                                                                  | File                                      | Author
 | ----- | ------------------------------------------------------------------------- | ----------------------------------------- | -----------------------------------------------------|
-|   1   | [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)                      | [helloworld.bf](helloworld.bf)            | [Chaos Phoe](https://github.com/ChaosPhoe)           |                      |
-|   2   | [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))                   | [helloworld.bash](helloworld.bash)        | [Chaos Pheo](https://github.com/ChaosPhoe)           |
+|   1   | [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))              | [helloworld.bash](helloworld.bash)        | [Chaos Phoe](https://github.com/ChaosPhoe)           |                      |
+|   2   | [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)                      | [helloworld.bf](helloworld.bf)            | [Chaos Phoe](https://github.com/ChaosPhoe)           |
 |   3   | [C++](https://en.wikipedia.org/wiki/C%2B%2B)                              | [helloworld.cpp](helloworld.cpp)          | [Zack Gabri](https://github.com/ZackGabri)           |
 |   4   | [C Sharp](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))   | [helloworld.cs](helloworld.cs)            | [Zack Gabri](https://github.com/ZackGabri)           |
 |   5   | [Go](https://en.wikipedia.org/wiki/Go_(programming_language))             | [helloworld.go](helloworld.go)            | [Zack Gabri](https://github.com/ZackGabri)           |
