@@ -24,6 +24,13 @@ Hello World in 101 languages.
 |   16  | [TypeScript](https://en.wikipedia.org/wiki/TypeScript)                    | [helloworld.ts](helloworld.ts)            | [Anish Shobith](https://github.com/Anish-Shobith)    |
 |   17  | [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic)                | [helloworld.vb](helloworld.vb)            | [Chaos Phoe](https://github.com/ChaosPhoe)           |
 
+# Pull Request
+* The output of the message should be `Hello World!`
+* The commit message should be `feat: <Language_Name>`
+* If you have any correction to make , make sure the commit message is as above
+* Only submit one language at a time.
+
+
 # Authors: 
 - [Zack Gabri](https://github.com/ZackGabri)
 - [Anish Shobith](https://github.com/Anish-Shobith)
