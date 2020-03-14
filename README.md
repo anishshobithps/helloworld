@@ -11,7 +11,7 @@ Hello World in 101 languages.
 | [Go](https://en.wikipedia.org/wiki/Go_(programming_language))             | [helloworld.go](helloworld.go)            | [Zack Gabri](https://github.com/ZackGabri/)           |
 | [Java](https://en.wikipedia.org/wiki/Java_(programming_language))         | [helloworld.java](helloworld.java)        | [Zack Gabri](https://github.com/ZackGabri/)           |
 | [JavaScript](https://en.wikipedia.org/wiki/JavaScript)                    | [helloworld.js](helloworld.js)            | [Zack Gabri](https://github.com/ZackGabri/)           |
-| [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))     | [helloworld.ky](helloworld.kt)            | [Zack Gabri](https://github.com/ZackGabri/)           |
+| [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))     | [helloworld.kt](helloworld.kt)            | [Zack Gabri](https://github.com/ZackGabri/)           |
 | [Perl](https://en.wikipedia.org/wiki/Perl)                                | [helloworld.pl](helloworld.pl)            | [Zack Gabri](https://github.com/ZackGabri/)           |
 | [Python](https://en.wikipedia.org/wiki/Python_(programming_language))     | [helloworld.py](helloworld.py)            | [Zack Gabri](https://github.com/ZackGabri/)           |
 | [R](https://en.wikipedia.org/wiki/R_(programming_language))               | [helloworld.r](helloworld.r)              | [Zack Gabri](https://github.com/ZackGabri/)           |
